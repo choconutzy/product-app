@@ -5,10 +5,6 @@ import cors from "cors"
 import Routers from "./routes";
 const cookieParser = require('cookie-parser');
 
-// const passport = require('passport');
-// const cookieSession = require('cookie-session');
-// require('./middleware/passport')
-
 class App {
     public app: Application;
 
