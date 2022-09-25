@@ -1,5 +1,5 @@
 ## Project Setup
-yarn <br/>
+yarn or npm install <br/>
 npm i -g sequelize-cli <br />
 npx sequelize-cli db:create <br />
 npx sequelize-cli db:migrate <br/>
